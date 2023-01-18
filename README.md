@@ -14,7 +14,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="45" height="45"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://icongr.am/devicon/sass-original.svg?size=128&color=919191" alt="sass" width="45" height="45"/></a>
-  <a href="https://styled-components.com/" target="_blank"> <img src="./styled-components-logo.png" alt="styled components" width="45" height="45"/></a>
+  <a href="https://styled-components.com/" target="_blank"> <img src="./sc.png" alt="styled components" width="45" height="45"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="./tailwind-css.svg" alt="tailwindcss" width="45" height="45"/></a>
   <a href="https://chakra-ui.com/" target="_blank"><img src="./chakra.png" alt="chakra ui" width="45" height="45"/></a>
   <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="45" height="45"/></a>
@@ -27,7 +27,7 @@
   <a href="https://react-redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="45" height="45"/></a>
   <a href="https://graphql.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/25126281/102015838-d4678280-3d55-11eb-81d2-cd2a79ea3a82.png" alt="css3" width="45" height="45"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/></a>
-  <a href="https://astro.build/" target="_blank"><img src="./astro.svg" alt="astro" width="45" height="45"/></a>
+  <a href="https://astro.build/" target="_blank"><img src="./astro.png" alt="astro" width="45" height="45"/></a>
 </p>
 
 <p align="left">
