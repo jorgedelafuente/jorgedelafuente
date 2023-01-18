@@ -1,11 +1,13 @@
 
 <h2 align='center'>Hello 👋🏼 I'm Jorge</h2>
-<h3 align='center'>Welcome to my Github! 💻</h3>
+<p align='center'>Welcome to my Github! 💻</p>
+</br>
 
 ## How to reach me 📫
 
-✉️ techjorge7@gmail.com <br />
-💬 [LinkedIn](https:/www.linkedin.com/in/jorgedelafuente/)<br />
+✉️ Email : techjorge7@gmail.com <br />
+💬 Linkedin : <https://www.linkedin.com/in/jorgedelafuente/>
+<br />
 
 ## Technologies and tools I use 🔨
 
@@ -48,12 +50,9 @@
   <a href="https://webpack.js.org/" target="_blank"><img src="https://icongr.am/devicon/babel-original.svg?size=128&color=currentColor" alt="babel" width="45" height="45"/></a>
 </p>
 
-</br>
-
 ## Technologies I am interested in learning 🔨
 
 </br>
-
 <p align="left">
   <a href="https://remix.run/" target="_blank"><img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="45" height="45"/></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/></a>
