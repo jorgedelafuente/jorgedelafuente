@@ -7,7 +7,6 @@
 
 * ✉️ Email : techjorge7@gmail.com <br />
 * 💬 Linkedin : <https://www.linkedin.com/in/jorgedelafuente/>
-<br />
 
 ## Technologies and tools I use 🔧
 
