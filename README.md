@@ -1,6 +1,5 @@
 
-<h2 align='center'>Hello 👋🏼 I'm Jorge</h2>
-<p align='center'>Welcome to my Github! 💻</p>
+<h2 align='center'>Hello 👋🏼 I'm Jorge, Welcome to my Github! ☕💻</h2>
 </br>
 
 ## How to reach me 📫
