@@ -1,14 +1,15 @@
 
-<h2 align='center'>Hello 👋🏼 I'm Jorge, Welcome to my Github! ☕💻</h2>
-</br>
+# Hello 👋🏼 I'm <strong>Jorge</strong>
+
+> Welcome to my Github! ☕ 💻 🚀 </h2>
 
 ## How to reach me 📫
 
-✉️ Email : techjorge7@gmail.com <br />
-💬 Linkedin : <https://www.linkedin.com/in/jorgedelafuente/>
+* ✉️ Email : techjorge7@gmail.com <br />
+* 💬 Linkedin : <https://www.linkedin.com/in/jorgedelafuente/>
 <br />
 
-## Technologies and tools I use 🔨
+## Technologies and tools I use 🔧
 
 </br>
 <p align="left">
@@ -49,7 +50,7 @@
   <a href="https://webpack.js.org/" target="_blank"><img src="https://icongr.am/devicon/babel-original.svg?size=128&color=currentColor" alt="babel" width="45" height="45"/></a>
 </p>
 
-## Technologies I am interested in learning 🔨
+## Technologies I am interested in learning 📖
 
 </br>
 <p align="left">
