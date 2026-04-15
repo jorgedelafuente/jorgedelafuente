@@ -1,6 +1,6 @@
 # Hello 👋🏼 I'm <strong>Jorge</strong>
 
-> Welcome to my Github! ☕ 💻 🚀 </h2>
+> Welcome to my Github! ☕ 💻 🚀
 
 ## How to reach me 📫
 
@@ -9,7 +9,6 @@
 
 ## Technologies and tools I use 🔧
 
-</br>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="45" height="45"/></a>
