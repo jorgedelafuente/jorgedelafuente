@@ -1,41 +1,53 @@
-# Hello 👋🏼 I'm <strong>Jorge</strong>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header" width="100%"/>
+
+# Hello 👋🏼 I'm **Jorge**
 
 > Welcome to my Github! ☕ 💻 🚀
 
+---
+
 ## How to reach me 📫
 
-- ✉️ Email : techjorge7@gmail.com <br />
-- 💬 Linkedin : <https://www.linkedin.com/in/jorgedelafuente/>
+<a href="https://www.linkedin.com/in/jorgedelafuente/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:techjorge7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
 
 ## Technologies and tools I use 🔧
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="45" height="45"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://icongr.am/devicon/sass-original.svg?size=128&color=919191" alt="sass" width="45" height="45"/></a>
-  <a href="https://styled-components.com/" target="_blank"> <img src="./sc.png" alt="styled components" width="45" height="45"/></a>
+  <a href="https://styled-components.com/" target="_blank"><img src="./sc.png" alt="styled components" width="45" height="45"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="./tailwind-css.svg" alt="tailwindcss" width="45" height="45"/></a>
   <a href="https://chakra-ui.com/" target="_blank"><img src="./chakra.png" alt="chakra ui" width="45" height="45"/></a>
   <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="45" height="45"/></a>
 </p>
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="45" height="45"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="45" height="45"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="45" height="45"/></a>
   <a href="https://react-redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="45" height="45"/></a>
-  <a href="https://graphql.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/25126281/102015838-d4678280-3d55-11eb-81d2-cd2a79ea3a82.png" alt="css3" width="45" height="45"/></a>
+  <a href="https://graphql.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/25126281/102015838-d4678280-3d55-11eb-81d2-cd2a79ea3a82.png" alt="graphql" width="45" height="45"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/></a>
   <a href="https://astro.build/" target="_blank"><img src="./astro.png" alt="astro" width="45" height="45"/></a>
 </p>
 
 <p>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=919191" alt="nodejs" width="45" height="45"/></a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=919191" alt="express" width="45" height="45"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="45" height="45"/></a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original.svg?size=128" alt="postgresql" width="45" height="45"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=919191" alt="nodejs" width="45" height="45"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://icongr.am/devicon/express-original.svg?size=128&color=919191" alt="express" width="45" height="45"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="45" height="45"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://icongr.am/devicon/postgresql-original.svg?size=128" alt="postgresql" width="45" height="45"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="./supabase.webp" alt="supabase" width="45" height="45"/></a>  
+  <a href="https://supabase.com/" target="_blank"><img src="./supabase.webp" alt="supabase" width="45" height="45"/></a>
 </p>
 
 <p>
@@ -49,3 +61,16 @@
   <a href="https://webpack.js.org/" target="_blank"><img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="45" height="45"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="45" height="45"/></a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=jorgedelafuente&show_icons=true&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedelafuente&layout=compact&theme=radical&hide_border=true" height="165" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
+</div>
