@@ -1,12 +1,11 @@
-
 # Hello 👋🏼 I'm <strong>Jorge</strong>
 
 > Welcome to my Github! ☕ 💻 🚀 </h2>
 
 ## How to reach me 📫
 
-* ✉️ Email : techjorge7@gmail.com <br />
-* 💬 Linkedin : <https://www.linkedin.com/in/jorgedelafuente/>
+- ✉️ Email : techjorge7@gmail.com <br />
+- 💬 Linkedin : <https://www.linkedin.com/in/jorgedelafuente/>
 
 ## Technologies and tools I use 🔧
 
@@ -42,17 +41,12 @@
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="45" height="45"/></a>
-  <a href="https://jestjs.io/" target="_blank"><img src="./jest.svg" alt="jest" width="45" height="45"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="45" height="45"/></a>
   <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img src="https://testing-library.com/img/octopus-64x64.png" alt="react testing library" width="45" height="45"/></a>
+  <a href="https://jestjs.io/" target="_blank"><img src="./jest.svg" alt="jest" width="45" height="45"/></a>
+  <a href="https://vitest.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="45" height="45"/></a>
   <a href="https://www.cypress.io/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" alt="cypress" width="45" height="45"/></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="45" height="45"/></a>
   <a href="https://webpack.js.org/" target="_blank"><img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="45" height="45"/></a>
-  <a href="https://webpack.js.org/" target="_blank"><img src="https://icongr.am/devicon/babel-original.svg?size=128&color=currentColor" alt="babel" width="45" height="45"/></a>
-</p>
-
-## Technologies I am interested in learning 📖
-
-</br>
-<p align="left">
-  <a href="https://remix.run/" target="_blank"><img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="45" height="45"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="45" height="45"/></a>
 </p>
