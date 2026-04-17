@@ -27,7 +27,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="45" height="45"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://icongr.am/devicon/sass-original.svg?size=128&color=919191" alt="sass" width="45" height="45"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="./tailwind-css.svg" alt="tailwindcss" width="45" height="45"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/></a>
   <a href="https://chakra-ui.com/" target="_blank"><img src="./chakra.png" alt="chakra ui" width="45" height="45"/></a>
 </p>
 
