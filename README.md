@@ -23,62 +23,59 @@
 
 ## Technologies and tools I use 🔧
 
-<div style="display:inline-flex;align-items:center;gap:12px">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="45" height="45"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://icongr.am/devicon/sass-original.svg?size=128&color=919191" alt="sass" width="45" height="45"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/></a>
-  <a href="https://chakra-ui.com/" target="_blank"><img src="./chakra.png" alt="chakra ui" width="45" height="45"/></a>
-</div>
+  <a href="https://chakra-ui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chakraui/chakraui-original.svg" alt="chakra ui" width="45" height="45"/></a>
+</p>
 
 <br />
 
 <p align="center">
-  <a href="https://styled-components.com/" target="_blank"><img src="./sc.png" alt="styled components" width="45" height="45"/></a>
   <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="45" height="45"/></a>
   <a href="https://www.chromatic.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/24584319?s=200&v=4" alt="chromatic" width="45" height="45"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/></a>
+</p>
+
+<br />
+
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="45" height="45"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="45" height="45"/></a>
-</p>
-
-<br />
-
-<p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="45" height="45"/></a>
-  <a href="https://react-redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="45" height="45"/></a>
-  <a href="https://graphql.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/25126281/102015838-d4678280-3d55-11eb-81d2-cd2a79ea3a82.png" alt="graphql" width="45" height="45"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/></a>
-  <a href="https://astro.build/" target="_blank"><img src="./astro.png" alt="astro" width="45" height="45"/></a>
+  <a href="https://react-redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="45" height="45"/></a>  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/></a>
 </p>
 
 <br />
 
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=919191" alt="nodejs" width="45" height="45"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://icongr.am/devicon/express-original.svg?size=128&color=919191" alt="express" width="45" height="45"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="45" height="45"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://icongr.am/devicon/postgresql-original.svg?size=128" alt="postgresql" width="45" height="45"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
+  <a href="https://bun.sh/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="bun" width="45" height="45"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45"/></a>
 </p>
 
 <br />
 
 <p align="center">
-  <a href="https://supabase.com/" target="_blank"><img src="./supabase.webp" alt="supabase" width="45" height="45"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="45" height="45"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="45" height="45"/></a>
-  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img src="https://testing-library.com/img/octopus-64x64.png" alt="react testing library" width="45" height="45"/></a>
-  <a href="https://jestjs.io/" target="_blank"><img src="./jest.svg" alt="jest" width="45" height="45"/></a>
-</p>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="45" height="45"/></a>
+  <a href="https://webpack.js.org/" target="_blank"><img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="45" height="45"/></a>
+  <a href="https://eslint.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="eslint" width="45" height="45"/></a></p>
 
 <br />
 
 <p align="center">
   <a href="https://vitest.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="45" height="45"/></a>
+  <a href="https://jestjs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="45" height="45"/></a>
+  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img src="https://testing-library.com/img/octopus-64x64.png" alt="react testing library" width="45" height="45"/></a>
   <a href="https://www.cypress.io/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" alt="cypress" width="45" height="45"/></a>
   <a href="https://playwright.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="45" height="45"/></a>
-  <a href="https://webpack.js.org/" target="_blank"><img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="45" height="45"/></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="45" height="45"/></a>
 </p>
 
 ---
