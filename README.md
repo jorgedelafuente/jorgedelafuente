@@ -33,9 +33,7 @@
 **Design & Components**
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="48" height="48" />
-  <img src="https://avatars.githubusercontent.com/u/24584319?s=200&v=4" alt="chromatic" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="48" height="48" /><img src="https://avatars.githubusercontent.com/u/24584319?s=200&v=4" alt="chromatic" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="48" height="48" />
 </p>
 
 **Languages & Frameworks**
@@ -53,16 +51,13 @@
 **Dev Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,vite,webpack&theme=light" alt="git, github actions, vite, webpack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="eslint" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,vite,webpack&theme=light" alt="git, github actions, vite, webpack" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="eslint" width="48" height="48" />
 </p>
 
 **Testing**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vitest,jest,cypress&theme=light" alt="vitest, jest, cypress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="48" height="48" />
-  <img src="https://testing-library.com/img/octopus-64x64.png" alt="react testing library" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vitest,jest,cypress&theme=light" alt="vitest, jest, cypress" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="48" height="48" /><img src="https://testing-library.com/img/octopus-64x64.png" alt="react testing library" width="48" height="48" />
 </p>
 
 ---
