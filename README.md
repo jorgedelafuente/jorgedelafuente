@@ -29,7 +29,10 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="./tailwind-css.svg" alt="tailwindcss" width="45" height="45"/></a>
   <a href="https://chakra-ui.com/" target="_blank"><img src="./chakra.png" alt="chakra ui" width="45" height="45"/></a>
   <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="45" height="45"/></a>
+  <a href="https://www.chromatic.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/24584319?s=200&v=4" alt="chromatic" width="45" height="45"/></a>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="45" height="45"/></a>
@@ -41,6 +44,8 @@
   <a href="https://astro.build/" target="_blank"><img src="./astro.png" alt="astro" width="45" height="45"/></a>
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=919191" alt="nodejs" width="45" height="45"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://icongr.am/devicon/express-original.svg?size=128&color=919191" alt="express" width="45" height="45"/></a>
@@ -49,6 +54,8 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45"/></a>
   <a href="https://supabase.com/" target="_blank"><img src="./supabase.webp" alt="supabase" width="45" height="45"/></a>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="45" height="45"/></a>
