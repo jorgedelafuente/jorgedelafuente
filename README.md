@@ -30,7 +30,9 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="./tailwind-css.svg" alt="tailwindcss" width="45" height="45"/></a>
   <a href="https://chakra-ui.com/" target="_blank"><img src="./chakra.png" alt="chakra ui" width="45" height="45"/></a>
 </p>
-<!-- 
+
+<br />
+
 <p align="center">
   <a href="https://styled-components.com/" target="_blank"><img src="./sc.png" alt="styled components" width="45" height="45"/></a>
   <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="45" height="45"/></a>
@@ -38,6 +40,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="45" height="45"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="45" height="45"/></a>
 </p>
+
+<br />
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="45" height="45"/></a>
@@ -47,6 +51,8 @@
   <a href="https://astro.build/" target="_blank"><img src="./astro.png" alt="astro" width="45" height="45"/></a>
 </p>
 
+<br />
+
 <p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=919191" alt="nodejs" width="45" height="45"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://icongr.am/devicon/express-original.svg?size=128&color=919191" alt="express" width="45" height="45"/></a>
@@ -54,6 +60,8 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://icongr.am/devicon/postgresql-original.svg?size=128" alt="postgresql" width="45" height="45"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45"/></a>
 </p>
+
+<br />
 
 <p align="center">
   <a href="https://supabase.com/" target="_blank"><img src="./supabase.webp" alt="supabase" width="45" height="45"/></a>
@@ -63,13 +71,15 @@
   <a href="https://jestjs.io/" target="_blank"><img src="./jest.svg" alt="jest" width="45" height="45"/></a>
 </p>
 
+<br />
+
 <p align="center">
   <a href="https://vitest.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="45" height="45"/></a>
   <a href="https://www.cypress.io/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" alt="cypress" width="45" height="45"/></a>
   <a href="https://playwright.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="45" height="45"/></a>
   <a href="https://webpack.js.org/" target="_blank"><img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="45" height="45"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="45" height="45"/></a>
-</p> -->
+</p>
 
 ---
 
