@@ -33,7 +33,9 @@
 **Design & Components**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma" /><img src="https://avatars.githubusercontent.com/u/24584319?s=200&v=4" alt="chromatic" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="48" height="48" />
+  <img src="https://avatars.githubusercontent.com/u/24584319?s=200&v=4" alt="chromatic" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="48" height="48" />
 </p>
 
 **Languages & Frameworks**
