@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jorge%20de%20La%20Fuente&fontSize=50&desc=Frontend%20Engineer&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0077B5&height=200&section=header&text=Jorge%20de%20La%20Fuente&fontSize=50&desc=Frontend%20Engineer&descAlignY=62&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 # Hello 👋🏼 I'm **Jorge**
 
@@ -10,7 +10,7 @@
 
 ## How to reach me 📫
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgedelafuente/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/jorgedelafuente/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techjorge7@gmail.com)
 
 ---
@@ -26,7 +26,7 @@
 **Design & Components**
 
 <p align="center">
-<a href="https://storybook.js.org" target="_blank"><img src="icons/storybook.svg" alt="storybook" width="48" height="48"/></a><a href="https://www.figma.com" target="_blank"><img src="icons/figma.svg" alt="figma" width="48" height="48"/></a><a href="https://www.chromatic.com" target="_blank"><img src="icons/chromatic.png" alt="chromatic" width="48" height="48"/></a>
+<a href="https://storybook.js.org" target="_blank"><img src="icons/storybook.svg" alt="storybook" width="48" height="48"/></a><a href="https://www.chromatic.com" target="_blank"><img src="icons/chromatic.png" alt="chromatic" width="48" height="48"/></a><a href="https://www.figma.com" target="_blank"><img src="icons/figma.svg" alt="figma" width="48" height="48"/></a>
 </p>
 
 **Languages & Frameworks**
@@ -50,7 +50,7 @@
 **Testing**
 
 <p align="center">
-  <a href="https://vitest.dev" target="_blank"><img src="icons/vitest.svg" alt="vitest" width="48" height="48"/></a><a href="https://jestjs.io" target="_blank"><img src="icons/jest.svg" alt="jest" width="48" height="48"/></a><a href="https://www.cypress.io" target="_blank"><img src="icons/cypress.svg" alt="cypress" width="48" height="48"/></a><a href="https://playwright.dev" target="_blank"><img src="icons/playwright.svg" alt="playwright" width="48" height="48"/></a><a href="https://testing-library.com" target="_blank"><img src="icons/rtl.png" alt="react testing library" width="48" height="48"/></a>
+  <a href="https://vitest.dev" target="_blank"><img src="icons/vitest.svg" alt="vitest" width="48" height="48"/></a><a href="https://jestjs.io" target="_blank"><img src="icons/jest.svg" alt="jest" width="48" height="48"/></a><a href="https://testing-library.com" target="_blank"><img src="icons/rtl.png" alt="react testing library" width="48" height="48"/></a><a href="https://www.cypress.io" target="_blank"><img src="icons/cypress.svg" alt="cypress" width="48" height="48"/></a><a href="https://playwright.dev" target="_blank"><img src="icons/playwright.svg" alt="playwright" width="48" height="48"/></a>
 </p>
 
 ---
@@ -61,6 +61,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0077B5&height=100&section=footer" width="100%"/>
 
 </div>
