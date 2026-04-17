@@ -4,7 +4,8 @@
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "WebFetch(domain:github.com)",
-      "Bash(curl -s \"https://skillicons.dev\")"
+      "Bash(curl -s \"https://skillicons.dev\")",
+      "Bash(git log *)"
     ]
   }
 }
