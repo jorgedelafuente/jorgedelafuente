@@ -5,7 +5,26 @@
       "Bash(git commit -m ' *)",
       "WebFetch(domain:github.com)",
       "Bash(curl -s \"https://skillicons.dev\")",
-      "Bash(git log *)"
+      "Bash(mkdir -p /Users/jorge.delafuente/Code/learning/jorgedelafuente/icons)",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg\")",
+      "Bash(mv html5-original.svg html5.svg)",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg\")",
+      "Bash(mv css3-original.svg css3.svg)",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg\")",
+      "Bash(curl -sO \"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg\")",
+      "Bash(curl -s \"https://testing-library.com/img/octopus-64x64.png\" -o rtl.png)"
     ]
   }
 }

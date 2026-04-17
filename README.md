@@ -20,37 +20,37 @@
 **Styling & UI**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind&theme=light" alt="html, css, sass, tailwind" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chakraui/chakraui-original.svg" alt="chakra ui" width="48" height="48" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="icons/html5.svg" alt="html5" width="48" height="48"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="icons/css3.svg" alt="css3" width="48" height="48"/></a><a href="https://sass-lang.com" target="_blank"><img src="icons/sass.svg" alt="sass" width="48" height="48"/></a><a href="https://tailwindcss.com" target="_blank"><img src="icons/tailwind.svg" alt="tailwind" width="48" height="48"/></a><a href="https://chakra-ui.com" target="_blank"><img src="icons/chakra.svg" alt="chakra ui" width="48" height="48"/></a>
 </p>
 
 **Design & Components**
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="48" height="48" /><img src="https://avatars.githubusercontent.com/u/24584319?s=200&v=4" alt="chromatic" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="48" height="48" />
+  <a href="https://www.figma.com" target="_blank"><img src="icons/figma.svg" alt="figma" width="48" height="48"/></a><a href="https://www.chromatic.com" target="_blank"><img src="icons/chromatic.png" alt="chromatic" width="48" height="48"/></a><a href="https://storybook.js.org" target="_blank"><img src="icons/storybook.svg" alt="storybook" width="48" height="48"/></a>
 </p>
 
 **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs&theme=light" alt="javascript, typescript, react, redux, nextjs" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="icons/javascript.svg" alt="javascript" width="48" height="48"/></a><a href="https://www.typescriptlang.org" target="_blank"><img src="icons/typescript.svg" alt="typescript" width="48" height="48"/></a><a href="https://reactjs.org" target="_blank"><img src="icons/react.svg" alt="react" width="48" height="48"/></a><a href="https://react-redux.js.org" target="_blank"><img src="icons/redux.svg" alt="redux" width="48" height="48"/></a><a href="https://nextjs.org" target="_blank"><img src="icons/nextjs.svg" alt="nextjs" width="48" height="48"/></a>
 </p>
 
 **Backend & Infrastructure**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,aws,bun,docker,supabase,firebase&theme=light" alt="nodejs, aws, bun, docker, supabase, firebase" />
+  <a href="https://nodejs.org" target="_blank"><img src="icons/nodejs.svg" alt="nodejs" width="48" height="48"/></a><a href="https://aws.amazon.com" target="_blank"><img src="icons/aws.svg" alt="aws" width="48" height="48"/></a><a href="https://bun.sh" target="_blank"><img src="icons/bun.svg" alt="bun" width="48" height="48"/></a><a href="https://www.docker.com" target="_blank"><img src="icons/docker.svg" alt="docker" width="48" height="48"/></a><a href="https://supabase.com" target="_blank"><img src="icons/supabase.svg" alt="supabase" width="48" height="48"/></a><a href="https://firebase.google.com" target="_blank"><img src="icons/firebase.svg" alt="firebase" width="48" height="48"/></a>
 </p>
 
 **Dev Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,vite,webpack&theme=light" alt="git, github actions, vite, webpack" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="eslint" width="48" height="48" />
+  <a href="https://git-scm.com" target="_blank"><img src="icons/git.svg" alt="git" width="48" height="48"/></a><a href="https://github.com/features/actions" target="_blank"><img src="icons/githubactions.svg" alt="github actions" width="48" height="48"/></a><a href="https://vitejs.dev" target="_blank"><img src="icons/vite.svg" alt="vite" width="48" height="48"/></a><a href="https://webpack.js.org" target="_blank"><img src="icons/webpack.svg" alt="webpack" width="48" height="48"/></a><a href="https://eslint.org" target="_blank"><img src="icons/eslint.svg" alt="eslint" width="48" height="48"/></a>
 </p>
 
 **Testing**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vitest,jest,cypress&theme=light" alt="vitest, jest, cypress" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="48" height="48" /><img src="https://testing-library.com/img/octopus-64x64.png" alt="react testing library" width="48" height="48" />
+  <a href="https://vitest.dev" target="_blank"><img src="icons/vitest.svg" alt="vitest" width="48" height="48"/></a><a href="https://jestjs.io" target="_blank"><img src="icons/jest.svg" alt="jest" width="48" height="48"/></a><a href="https://www.cypress.io" target="_blank"><img src="icons/cypress.svg" alt="cypress" width="48" height="48"/></a><a href="https://playwright.dev" target="_blank"><img src="icons/playwright.svg" alt="playwright" width="48" height="48"/></a><a href="https://testing-library.com" target="_blank"><img src="icons/rtl.png" alt="react testing library" width="48" height="48"/></a>
 </p>
 
 ---
