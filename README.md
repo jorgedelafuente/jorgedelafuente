@@ -30,7 +30,7 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="./tailwind-css.svg" alt="tailwindcss" width="45" height="45"/></a>
   <a href="https://chakra-ui.com/" target="_blank"><img src="./chakra.png" alt="chakra ui" width="45" height="45"/></a>
 </p>
-
+<!-- 
 <p align="center">
   <a href="https://styled-components.com/" target="_blank"><img src="./sc.png" alt="styled components" width="45" height="45"/></a>
   <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="45" height="45"/></a>
@@ -69,7 +69,7 @@
   <a href="https://playwright.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="45" height="45"/></a>
   <a href="https://webpack.js.org/" target="_blank"><img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="45" height="45"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="45" height="45"/></a>
-</p>
+</p> -->
 
 ---
 
