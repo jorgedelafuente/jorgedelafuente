@@ -26,7 +26,7 @@
 **Design & Components**
 
 <p align="center">
-  <a href="https://www.figma.com" target="_blank"><img src="icons/figma.svg" alt="figma" width="48" height="48"/></a><a href="https://www.chromatic.com" target="_blank"><img src="icons/chromatic.png" alt="chromatic" width="48" height="48"/></a><a href="https://storybook.js.org" target="_blank"><img src="icons/storybook.svg" alt="storybook" width="48" height="48"/></a>
+<a href="https://storybook.js.org" target="_blank"><img src="icons/storybook.svg" alt="storybook" width="48" height="48"/></a><a href="https://www.figma.com" target="_blank"><img src="icons/figma.svg" alt="figma" width="48" height="48"/></a><a href="https://www.chromatic.com" target="_blank"><img src="icons/chromatic.png" alt="chromatic" width="48" height="48"/></a>
 </p>
 
 **Languages & Frameworks**
