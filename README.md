@@ -26,8 +26,7 @@
 **Styling & UI**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind&theme=light" alt="html, css, sass, tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chakraui/chakraui-original.svg" alt="chakra ui" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind&theme=light" alt="html, css, sass, tailwind" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chakraui/chakraui-original.svg" alt="chakra ui" width="48" height="48" />
 </p>
 
 **Design & Components**
