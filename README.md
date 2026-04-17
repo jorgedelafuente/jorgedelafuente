@@ -21,7 +21,7 @@
 
 ## Technologies and tools I use 🔧
 
-<p>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="45" height="45"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://icongr.am/devicon/sass-original.svg?size=128&color=919191" alt="sass" width="45" height="45"/></a>
@@ -31,7 +31,7 @@
   <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="45" height="45"/></a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="45" height="45"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="45" height="45"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="45" height="45"/></a>
@@ -41,7 +41,7 @@
   <a href="https://astro.build/" target="_blank"><img src="./astro.png" alt="astro" width="45" height="45"/></a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=919191" alt="nodejs" width="45" height="45"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://icongr.am/devicon/express-original.svg?size=128&color=919191" alt="express" width="45" height="45"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="45" height="45"/></a>
@@ -50,7 +50,7 @@
   <a href="https://supabase.com/" target="_blank"><img src="./supabase.webp" alt="supabase" width="45" height="45"/></a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="45" height="45"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="45" height="45"/></a>
   <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img src="https://testing-library.com/img/octopus-64x64.png" alt="react testing library" width="45" height="45"/></a>
